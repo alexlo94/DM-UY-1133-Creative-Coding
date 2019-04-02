@@ -1,6 +1,6 @@
 /*
 Bullet.pde
-Author: Alexandros Lotsos
+Author: Alexandros Nikolaos Lotsos
 Summary: A bullet class that extends Particle, meant to be shot by the gunship. Adds an extra constructor that takes in velocity
 and acceleration so that we can have more control over where our bullets are shot.
 */
