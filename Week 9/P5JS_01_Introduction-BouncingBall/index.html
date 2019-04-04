@@ -1,0 +1,50 @@
+<!--This is an HTML comment.
+HTML stands for Hyper Text Markup Language and is a tag-based system that decides the content of your webpage
+In general, a tag will open and close as follows:
+
+    <tagName>Content</tagName>
+
+For example, a common tag that denotes a paragraph of text is the <p> tag:
+
+    <p>This is a paragraph of text and it'll be rendered in the browser as one!</p>
+
+Tags can have attributes that denote specific characteristics about them.
+HTML specifies web links through the <a> tag and in order to denote the destination of the link the a tag is given an href attribute as follows:
+    
+    <a href = "https://www.google.com">Click here to go to Google!</a>
+
+Finally, every html document has a head and a body section and they're denoted by the special <head> and <body> tags.
+Tags in the <head> section will not be rendered in the browser window and are generally used for webpage settings, the title, and links to CSS/JS documents.
+Tags in the <body> section will be rendered as normal and make up the visual component of your website.
+
+There is much much more to HTML than this general pattern and just like with CSS, I am by no means an authority on the subject.
+You can learn more about HTML in the following links:
+    W3Schools HTML Tutorial: https://www.w3schools.com/html/ 
+    Brad Traversy's HTML Crash Course: https://www.youtube.com/watch?v=UB1O30fR-EE
+    Free Code Camp's Excercises: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- The title of my site -->
+    <title>my first p5 sketch</title>
+    <!--link tag that lets our html know of any styling rules. In this case our style.css document-->
+    <link rel="stylesheet" href="style.css">
+    <!--script tag to download p5.js from a CDN-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+    <!--script tag to let our html know of our p5 sketch at sketch.js-->
+    <script src="sketch.js"></script>
+</head>
+
+<body>
+    <!--The body of an html document is usually clear when it comes to p5 sketches,
+    although the canvas object that's created can coexist with other tags.-->
+
+</body>
+
+</html>

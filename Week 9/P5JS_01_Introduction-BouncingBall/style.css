@@ -1,0 +1,19 @@
+/*This is a css comment.
+CSS is a rule-based system that dictates what different HTML tags will look like.
+The general format is as follows:
+tag{
+    style-element: style rule;
+    other-style-element: style rule;
+}
+
+There is much much more to CSS than this general pattern and just like with HTML, I am by no means an authority on the subject.
+You can learn more about CSS in the following links:
+    W3Schools CSS Tutorial: https://www.w3schools.com/css/ 
+    Brad Traversy's CSS Crash Course: https://www.youtube.com/watch?v=yfoY53QXEnI
+    Free Code Camp's Excercises: https://learn.freecodecamp.org/responsive-web-design/basic-css/
+*/
+
+h1 {
+    font-family: comic-sans;
+    color: greenyellow;
+}
