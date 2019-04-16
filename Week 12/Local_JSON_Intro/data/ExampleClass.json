@@ -1,0 +1,262 @@
+[
+ {
+   "Name": "Alice",
+   "Year": "Senior",
+   "Background": "Novice",
+   "Quiz Avg.": 100,
+   "HW Avg.": 94,
+   "Midterm": 58,
+   "Final": 99,
+   "Absences": 1
+ },
+ {
+   "Name": "Bob",
+   "Year": "Junior",
+   "Background": "Novice",
+   "Quiz Avg.": 94,
+   "HW Avg.": 71,
+   "Midterm": 57,
+   "Final": 97,
+   "Absences": 1
+ },
+ {
+   "Name": "Charlie",
+   "Year": "Freshman",
+   "Background": "Novice",
+   "Quiz Avg.": 90,
+   "HW Avg.": 47,
+   "Midterm": 46,
+   "Final": 79,
+   "Absences": 1
+ },
+ {
+   "Name": "David",
+   "Year": "Freshman",
+   "Background": "Intermediate",
+   "Quiz Avg.": 79,
+   "HW Avg.": 69,
+   "Midterm": 99,
+   "Final": 64,
+   "Absences": 1
+ },
+ {
+   "Name": "Eric",
+   "Year": "Senior",
+   "Background": "Advanced",
+   "Quiz Avg.": 78,
+   "HW Avg.": 69,
+   "Midterm": 86,
+   "Final": 62,
+   "Absences": 2
+ },
+ {
+   "Name": "Francis",
+   "Year": "Senior",
+   "Background": "Intermediate",
+   "Quiz Avg.": 70,
+   "HW Avg.": 57,
+   "Midterm": 93,
+   "Final": 46,
+   "Absences": 0
+ },
+ {
+   "Name": "George",
+   "Year": "Sophomore",
+   "Background": "Novice",
+   "Quiz Avg.": 88,
+   "HW Avg.": 57,
+   "Midterm": 82,
+   "Final": 83,
+   "Absences": 0
+ },
+ {
+   "Name": "Harry",
+   "Year": "Freshman",
+   "Background": "Novice",
+   "Quiz Avg.": 50,
+   "HW Avg.": 81,
+   "Midterm": 63,
+   "Final": 73,
+   "Absences": 2
+ },
+ {
+   "Name": "Irene",
+   "Year": "Senior",
+   "Background": "Novice",
+   "Quiz Avg.": 52,
+   "HW Avg.": 64,
+   "Midterm": 97,
+   "Final": 97,
+   "Absences": 0
+ },
+ {
+   "Name": "John",
+   "Year": "Sophomore",
+   "Background": "Advanced",
+   "Quiz Avg.": 99,
+   "HW Avg.": 46,
+   "Midterm": 67,
+   "Final": 93,
+   "Absences": 2
+ },
+ {
+   "Name": "Katherine",
+   "Year": "Junior",
+   "Background": "Novice",
+   "Quiz Avg.": 61,
+   "HW Avg.": 46,
+   "Midterm": 48,
+   "Final": 49,
+   "Absences": 1
+ },
+ {
+   "Name": "Larry",
+   "Year": "Senior",
+   "Background": "Novice",
+   "Quiz Avg.": 96,
+   "HW Avg.": 70,
+   "Midterm": 64,
+   "Final": 85,
+   "Absences": 0
+ },
+ {
+   "Name": "Maria",
+   "Year": "Senior",
+   "Background": "Novice",
+   "Quiz Avg.": 73,
+   "HW Avg.": 92,
+   "Midterm": 67,
+   "Final": 83,
+   "Absences": 0
+ },
+ {
+   "Name": "Nicholas",
+   "Year": "Sophomore",
+   "Background": "Novice",
+   "Quiz Avg.": 53,
+   "HW Avg.": 96,
+   "Midterm": 50,
+   "Final": 84,
+   "Absences": 1
+ },
+ {
+   "Name": "Oscar",
+   "Year": "Sophomore",
+   "Background": "Advanced",
+   "Quiz Avg.": 93,
+   "HW Avg.": 86,
+   "Midterm": 91,
+   "Final": 66,
+   "Absences": 1
+ },
+ {
+   "Name": "Paulette",
+   "Year": "Senior",
+   "Background": "Intermediate",
+   "Quiz Avg.": 64,
+   "HW Avg.": 97,
+   "Midterm": 61,
+   "Final": 54,
+   "Absences": 0
+ },
+ {
+   "Name": "Quincy",
+   "Year": "Sophomore",
+   "Background": "Novice",
+   "Quiz Avg.": 95,
+   "HW Avg.": 64,
+   "Midterm": 99,
+   "Final": 98,
+   "Absences": 2
+ },
+ {
+   "Name": "Roberta",
+   "Year": "Senior",
+   "Background": "Advanced",
+   "Quiz Avg.": 77,
+   "HW Avg.": 46,
+   "Midterm": 89,
+   "Final": 91,
+   "Absences": 2
+ },
+ {
+   "Name": "Samantha",
+   "Year": "Sophomore",
+   "Background": "Intermediate",
+   "Quiz Avg.": 91,
+   "HW Avg.": 93,
+   "Midterm": 91,
+   "Final": 71,
+   "Absences": 1
+ },
+ {
+   "Name": "Timothy",
+   "Year": "Junior",
+   "Background": "Advanced",
+   "Quiz Avg.": 100,
+   "HW Avg.": 82,
+   "Midterm": 66,
+   "Final": 54,
+   "Absences": 2
+ },
+ {
+   "Name": "Ursula",
+   "Year": "Freshman",
+   "Background": "Novice",
+   "Quiz Avg.": 56,
+   "HW Avg.": 47,
+   "Midterm": 84,
+   "Final": 91,
+   "Absences": 1
+ },
+ {
+   "Name": "Vhalerie",
+   "Year": "Freshman",
+   "Background": "Intermediate",
+   "Quiz Avg.": 82,
+   "HW Avg.": 81,
+   "Midterm": 96,
+   "Final": 74,
+   "Absences": 1
+ },
+ {
+   "Name": "William",
+   "Year": "Senior",
+   "Background": "Novice",
+   "Quiz Avg.": 92,
+   "HW Avg.": 73,
+   "Midterm": 87,
+   "Final": 53,
+   "Absences": 2
+ },
+ {
+   "Name": "Xavier",
+   "Year": "Senior",
+   "Background": "Intermediate",
+   "Quiz Avg.": 71,
+   "HW Avg.": 59,
+   "Midterm": 53,
+   "Final": 93,
+   "Absences": 1
+ },
+ {
+   "Name": "Yasmin",
+   "Year": "Senior",
+   "Background": "Intermediate",
+   "Quiz Avg.": 74,
+   "HW Avg.": 72,
+   "Midterm": 82,
+   "Final": 91,
+   "Absences": 2
+ },
+ {
+   "Name": "Zane",
+   "Year": "Sophomore",
+   "Background": "Novice",
+   "Quiz Avg.": 99,
+   "HW Avg.": 74,
+   "Midterm": 84,
+   "Final": 66,
+   "Absences": 0
+ }
+]
